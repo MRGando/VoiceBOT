@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+
+body
+{
+    transition: .3s;
+    text-align: center;
+    background-color: #141414;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.lightmode
+{
+    background-color:  #007a7a;
+}
+.talk
+{
+    outline: none;
+    background-color: transparent;
+    color: whitesmoke;
+    border: 2px solid whitesmoke;
+    border-radius: 20px;
+    padding: 20px 30px;
+    margin-top: 3em;
+    font-size: 3em;
+}
+.content
+{
+    font-size: 1.5em;
+    color: whitesmoke;
+}
