@@ -8,7 +8,7 @@ bot is not advanced and doesn't work on Firefox (developer's edition).
 --------------------------------------------------------
 to see the preview visit : https://rez.blogfa.com/page/vc
 --------------------------info--------------------------
-Developer : Reza Kamali
-Release Date : 6/24/2021
-Included language(s) : JS , HTML5 , CSS3
+Developer : Reza Kamali |
+Release Date : 6/24/2021 |
+Included language(s) : JS , HTML5 , CSS3 |
 version : V1.0
